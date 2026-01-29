@@ -111,7 +111,7 @@ export function Footer() {
             © {currentYear} Web Designer. 
           </p>
           <p className="text-gray-400 text-sm flex items-center gap-2">
-             Todos os direitos reservados.
+             
           </p>
         </div>
       </div>
