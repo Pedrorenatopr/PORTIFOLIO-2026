@@ -46,7 +46,7 @@ const projects = [
   },
   {
     title: "Professora Antonieta BSB",
-    url: "https://professoraantonietabsb.com.br/",
+    url: "https://professoraantonieta.com.br/",
     category: "Site Educacional",
     description: "Site educacional com design clean e foco em conteúdo didático.",
     tags: ["WordPress", "Educação", "UI/UX"],
