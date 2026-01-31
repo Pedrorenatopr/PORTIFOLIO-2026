@@ -23,5 +23,5 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./build/  # Pasta que o Vite gera após o build
-          server-dir: ./public_html/  # Pasta padrão de sites no cPanel
+          local-dir: ./build/
+          server-dir: ./
