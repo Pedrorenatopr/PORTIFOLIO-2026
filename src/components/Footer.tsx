@@ -76,7 +76,7 @@ export function Footer() {
             </h4>
             <ul className="space-y-2 text-sm text-gray-400 mb-4">
               <li className="hover:text-cyan-400 transition-colors">contato@seusite.com.br</li>
-              <li className="hover:text-cyan-400 transition-colors">(61) 9 9999-9999</li>
+              <li className="hover:text-cyan-400 transition-colors">(61) 9 9120-7479</li>
               <li className="hover:text-cyan-400 transition-colors">Brasília - DF, Brasil</li>
             </ul>
             <div className="flex gap-3">
