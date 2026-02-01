@@ -108,7 +108,7 @@ export function Footer() {
 
         <div className="border-t border-cyan-500/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">
-            © {currentYear} Web Designer.. 
+            © {currentYear} Web Designer.
           </p>
           <p className="text-gray-400 text-sm flex items-center gap-2">
              
